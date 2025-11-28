@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\MIA_LW_9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C18A5CA-92D9-823F-698E-9447A03A5514}|MIA_LW_9.csproj|d:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\mia_lw_9\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C18A5CA-92D9-823F-698E-9447A03A5514}|MIA_LW_9.csproj|solutionrelative:nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C18A5CA-92D9-823F-698E-9447A03A5514}|MIA_LW_9.csproj|d:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\mia_lw_9\\mia_lw_9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4C18A5CA-92D9-823F-698E-9447A03A5514}|MIA_LW_9.csproj|solutionrelative:mia_lw_9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -95,7 +99,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MIA_LW_9",
+              "Title": "NuGet.config",
+              "DocumentMoniker": "D:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\MIA_LW_9\\NuGet.config",
+              "RelativeDocumentMoniker": "NuGet.config",
+              "ToolTip": "D:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\MIA_LW_9\\NuGet.config",
+              "RelativeToolTip": "NuGet.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-28T07:28:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MIA_LW_9.csproj",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\MIA_LW_9\\MIA_LW_9.csproj",
               "RelativeDocumentMoniker": "MIA_LW_9.csproj",
               "ToolTip": "D:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\MIA_LW_9\\MIA_LW_9.csproj",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u043B\u0430\u0431\u0438\\3 \u043A\u0443\u0440\u0441\\MIA_LW_9\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -115,8 +132,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T06:47:43.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-28T06:47:43.328Z"
             }
           ]
         }
