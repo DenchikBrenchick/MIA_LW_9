@@ -10,7 +10,7 @@
         "projectUniqueName": "D:\\лаби\\3 курс\\MIA_LW_9\\MIA_LW_9.csproj",
         "projectName": "MIA_LW_9",
         "projectPath": "D:\\лаби\\3 курс\\MIA_LW_9\\MIA_LW_9.csproj",
-        "packagesPath": "C:\\Users\\dkanu\\.nuget\\packages\\",
+        "packagesPath": "D:\\tmp\\nuget",
         "outputPath": "D:\\лаби\\3 курс\\MIA_LW_9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -49,12 +49,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[10.0.0-rc.2.25502.107, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

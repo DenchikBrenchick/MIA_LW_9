@@ -1,42 +1,14 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "Microsoft.AspNetCore.OpenApi/10.0.0-rc.2.25502.107": {
-        "type": "package",
-        "build": {
-          "build/Microsoft.AspNetCore.OpenApi.targets": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "Microsoft.AspNetCore.OpenApi/10.0.0-rc.2.25502.107": {
-      "sha512": "50Egznb0tgVvITuuQQhhQ2fCQqKsy+I7Cy2QopLZziDw/IRhvM+L5ZKA7AdsEr4x/lmuB0HnZPKjD8eRjkbVog==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.openapi/10.0.0-rc.2.25502.107",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "PACKAGE.md",
-        "THIRD-PARTY-NOTICES.TXT",
-        "analyzers/dotnet/cs/Microsoft.AspNetCore.OpenApi.SourceGenerators.dll",
-        "build/Microsoft.AspNetCore.OpenApi.targets",
-        "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll",
-        "lib/net10.0/Microsoft.AspNetCore.OpenApi.xml",
-        "microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
-        "microsoft.aspnetcore.openapi.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.0-rc.2.25502.107"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dkanu\\.nuget\\packages\\": {},
+    "D:\\tmp\\nuget": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -45,7 +17,7 @@
       "projectUniqueName": "D:\\лаби\\3 курс\\MIA_LW_9\\MIA_LW_9.csproj",
       "projectName": "MIA_LW_9",
       "projectPath": "D:\\лаби\\3 курс\\MIA_LW_9\\MIA_LW_9.csproj",
-      "packagesPath": "C:\\Users\\dkanu\\.nuget\\packages\\",
+      "packagesPath": "D:\\tmp\\nuget",
       "outputPath": "D:\\лаби\\3 курс\\MIA_LW_9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -84,12 +56,6 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.OpenApi": {
-            "target": "Package",
-            "version": "[10.0.0-rc.2.25502.107, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
